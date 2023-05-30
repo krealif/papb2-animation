@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="day_greeting">Good Morning</string>
+    <string name="night_greeting">Good Night</string>
+</resources>
